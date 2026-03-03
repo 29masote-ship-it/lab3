@@ -1,0 +1,96 @@
+body {
+	color: #666666;
+	background-image: url(assets/sky.png);
+	background-repeat: none;
+	font-family: sans-serif;
+}	
+	
+header {
+	background-color: #00B386;
+	color: #70dbdb;
+	background-image: url(assets/pasture.png);
+	background-repeat: no-repeat;
+	background-origin: context-box;
+	background-position: right;
+	line-height: 400%;
+	text-indent: 1 em;
+	text-align: left;
+}
+	
+nav{
+	background-color: white;
+	text-align: center; 
+	padding: 10px;
+	font-weight: bold; 
+	text-decoration: none;
+}
+	
+h2{
+	color: #00664D;
+	text-shadow: 1px 1px #cccccc;
+}
+	
+dt {
+	color: #00664D;
+}
+	
+.barn {
+	color: #70DBDB 
+}
+	
+#contact{
+	padding: 15px;
+}
+	
+h1 {
+	margin-bottom:0;
+	text-align: center;
+	height: 60px;
+	padding-top: 15px;
+}
+	
+#wrapper{
+	width: 80%;
+	background-color: white;
+	min-width: 900 px;
+	max-width: 2050 px;
+	margin: auto;
+	box-shadow: 4px 4px #133926;
+	
+}
+	
+#homeimage{
+	background-image: url(assets/sunsetHorse.png);
+	height: 300px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+main{
+	padding-top: 1px;
+	padding-right:20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	display: block;
+}
+
+footer{
+	padding: 15px;
+	text-align: center;
+}
+
+#boardimage{
+	background-image: url(assets/fenceline.png);
+             height: 300px;
+		   background-repeat: no-repeat;
+		   background-size: 100% 100%;
+}
+
+#trainingimage{
+	background-image: url(assets/BayBella.png);
+             height: 300px;
+		   background-repeat: no-repeat;
+		   background-size: 100% 100%;
+}
+
