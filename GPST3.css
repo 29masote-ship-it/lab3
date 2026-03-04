@@ -1,7 +1,7 @@
 body {
 	color: #666666;
 	background-image: url(sky.png);
-	background-repeat: none;
+	background-repeat: no-repeat;
 	font-family: sans-serif;
 }	
 	
@@ -111,6 +111,7 @@ h3{
 ul {
 	list-style-image: url(marker.gif);
 }
+
 
 
 
