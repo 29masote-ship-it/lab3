@@ -22,7 +22,10 @@ nav{
 	text-align: center; 
 	padding: 10px;
 	font-weight: bold; 
-	text-decoration: none;
+}
+
+nav a{
+	text-decoration: none; 
 }
 	
 h2{
@@ -93,6 +96,7 @@ footer{
 		   background-repeat: no-repeat;
 		   background-size: 100% 100%;
 }
+
 
 
 
