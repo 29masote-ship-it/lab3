@@ -103,6 +103,11 @@ h3{
 	font-family: serif;
 }
 
+ul {
+	list-style-image: url(marker.gif);
+}
+
+
 
 
 
