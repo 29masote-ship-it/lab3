@@ -31,6 +31,7 @@ nav a{
 h2{
 	color: #00664D;
 	text-shadow: 1px 1px #cccccc;
+	font-family: serif; 
 }
 	
 dt {
@@ -50,6 +51,7 @@ h1 {
 	text-align: center;
 	height: 60px;
 	padding-top: 15px;
+	font-family: serif;
 }
 	
 #wrapper{
@@ -96,6 +98,11 @@ footer{
 		   background-repeat: no-repeat;
 		   background-size: 100% 100%;
 }
+
+h3{
+	font-family: serif;
+}
+
 
 
 
