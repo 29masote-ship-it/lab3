@@ -13,7 +13,7 @@ header {
 	background-origin: context-box;
 	background-position: right;
 	line-height: 400%;
-	text-indent: 1 em;
+	text-indent: 1 cm;
 	text-align: left;
 }
 	
@@ -111,6 +111,7 @@ h3{
 ul {
 	list-style-image: url(marker.gif);
 }
+
 
 
 
