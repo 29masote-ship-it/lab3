@@ -83,6 +83,9 @@ main{
 footer{
 	padding: 15px;
 	text-align: center;
+	text-style: italic;
+	font-size: 75%;
+	font-family: serif;
 }
 
 #boardimage{
@@ -106,6 +109,7 @@ h3{
 ul {
 	list-style-image: url(marker.gif);
 }
+
 
 
 
