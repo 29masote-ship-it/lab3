@@ -39,7 +39,8 @@ dt {
 }
 	
 .barn {
-	color: #70DBDB 
+	color: #70DBDB;
+	font-weight: bold;
 }
 	
 #contact{
@@ -109,6 +110,7 @@ h3{
 ul {
 	list-style-image: url(marker.gif);
 }
+
 
 
 
