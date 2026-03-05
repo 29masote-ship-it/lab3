@@ -57,8 +57,8 @@ h1 {
 #wrapper{
 	width: 80%;
 	background-color: white;
-	min-width: 900 px;
-	max-width: 2050 px;
+	min-width: 900px;
+	max-width: 2050px;
 	margin: auto;
 	box-shadow: 4px 4px #133926;
 	
@@ -109,6 +109,7 @@ h3{
 ul {
 	list-style-image: url(marker.gif);
 }
+
 
 
 
