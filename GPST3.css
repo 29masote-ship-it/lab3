@@ -12,7 +12,6 @@ header {
 	background-repeat: no-repeat;
 	background-position: right;
 	line-height: 400%;
-	text-indent: 1 px;
 	text-align: left;
 }
 	
@@ -110,6 +109,7 @@ h3{
 ul {
 	list-style-image: url(marker.gif);
 }
+
 
 
 
